@@ -1,0 +1,80 @@
+---------------------Round1
+Detection rate for char_based: 0.558774591367329
+Cross-Entropy/Log loss for char_based: 5.6476133572463
+-------------------------END OF ROUND 1--------------------------------
+---------------------Round2
+Detection rate for char_based: 0.597827150827053
+Cross-Entropy/Log loss for char_based: 5.269442151137017
+-------------------------END OF ROUND 2--------------------------------
+---------------------Round3
+Detection rate for char_based: 0.619262014289909
+Cross-Entropy/Log loss for char_based: 5.095588762045814
+-------------------------END OF ROUND 3--------------------------------
+---------------------Round4
+Detection rate for char_based: 0.6433395321522952
+Cross-Entropy/Log loss for char_based: 4.947790349776918
+-------------------------END OF ROUND 4--------------------------------
+---------------------Round5
+Detection rate for char_based: 0.6559655476167172
+Cross-Entropy/Log loss for char_based: 4.69001930249807
+-------------------------END OF ROUND 5--------------------------------
+---------------------Round6
+Detection rate for char_based: 0.6540080258392874
+Cross-Entropy/Log loss for char_based: 4.773605062715364
+-------------------------END OF ROUND 6--------------------------------
+---------------------Round7
+Detection rate for char_based: 0.6601742194381912
+Cross-Entropy/Log loss for char_based: 4.711341206825798
+-------------------------END OF ROUND 7--------------------------------
+---------------------Round8
+Detection rate for char_based: 0.6698639522364687
+Cross-Entropy/Log loss for char_based: 4.668598307102925
+-------------------------END OF ROUND 8--------------------------------
+---------------------Round9
+Detection rate for char_based: 0.6784770480571596
+Cross-Entropy/Log loss for char_based: 4.5967007081247395
+-------------------------END OF ROUND 9--------------------------------
+---------------------Round10
+Detection rate for char_based: 0.679945189390232
+Cross-Entropy/Log loss for char_based: 4.613168290900503
+-------------------------END OF ROUND 10--------------------------------
+---------------------Round1
+Detection rate for char_based: 0.9129000624052777
+Cross-Entropy/Log loss for char_based: 0.0760666606312933
+-------------------------END OF ROUND 1--------------------------------
+---------------------Round2
+Detection rate for char_based: 0.9110279040741731
+Cross-Entropy/Log loss for char_based: 0.05251631211163429
+-------------------------END OF ROUND 2--------------------------------
+---------------------Round3
+Detection rate for char_based: 0.9075510386021218
+Cross-Entropy/Log loss for char_based: 0.04038156188856708
+-------------------------END OF ROUND 3--------------------------------
+---------------------Round4
+Detection rate for char_based: 0.9089774449496301
+Cross-Entropy/Log loss for char_based: 0.028347227593910042
+-------------------------END OF ROUND 4--------------------------------
+---------------------Round5
+Detection rate for char_based: 0.9064812338414906
+Cross-Entropy/Log loss for char_based: 0.023738169418334905
+-------------------------END OF ROUND 5--------------------------------
+---------------------Round6
+Detection rate for char_based: 0.9097797985201034
+Cross-Entropy/Log loss for char_based: 0.019465340070679633
+-------------------------END OF ROUND 6--------------------------------
+---------------------Round7
+Detection rate for char_based: 0.9105821520905768
+Cross-Entropy/Log loss for char_based: 0.014675124899639855
+-------------------------END OF ROUND 7--------------------------------
+---------------------Round8
+Detection rate for char_based: 0.9093340465365071
+Cross-Entropy/Log loss for char_based: 0.011394483769157103
+-------------------------END OF ROUND 8--------------------------------
+---------------------Round9
+Detection rate for char_based: 0.9079967905857181
+Cross-Entropy/Log loss for char_based: 0.01472275875684156
+-------------------------END OF ROUND 9--------------------------------
+---------------------Round10
+Detection rate for char_based: 0.9109387536774539
+Cross-Entropy/Log loss for char_based: 0.008402621689672882
+-------------------------END OF ROUND 10--------------------------------
