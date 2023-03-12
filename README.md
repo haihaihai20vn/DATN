@@ -19,14 +19,14 @@ pip3 install pandas
 1) Fix file distributedai.config
    SERVER_IP = your IP address
 2) Run a server:
-   <br/>cd DistributedAI/Server/
+   <br/>cd DATN/Server/
    <br/>sudo python3 threaded_server.py
 3) Run a first client:
-   <br/>cd DistributedAI/Client2/
+   <br/>cd DATN/Client2/
    <br/>sudo python3 full_feature_client.py
 4) Run a second client:
-   <br/>cd DistributedAI/Client3/
+   <br/>cd DATN/Client3/
    <br/>sudo python3 full_feature_client.py
 5) Test model:
-   <br/>cd DistributedAI/Client2/
+   <br/>cd DATN/Client2/
    <br/>sudo python3 test.py
